@@ -1,0 +1,1 @@
+A Recurrent Neural Network (RNN) is a type of artificial neural network designed for processing sequences of data, making it particularly effective for tasks where data points are interdependent, such as time series analysis, natural language processing (NLP), and speech recognition.
